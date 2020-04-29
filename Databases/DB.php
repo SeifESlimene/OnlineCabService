@@ -342,7 +342,7 @@ var infowindow=new google.maps.InfoWindow;
             
             
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7YmmfaFmNmTeGs6H752bQtvxHrJk7yLk&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=YourKey"
     async defer></script>
         
 
