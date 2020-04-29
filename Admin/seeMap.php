@@ -54,7 +54,7 @@ include_once "../Databases/conn.php";
        </script>
            
 
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7YmmfaFmNmTeGs6H752bQtvxHrJk7yLk&callback=initMap"
+      <script src="GoogleMapKey"
     async defer></script>
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
