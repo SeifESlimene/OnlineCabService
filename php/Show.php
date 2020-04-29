@@ -449,7 +449,7 @@ if(!isset($uid)){
 
    
       </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7YmmfaFmNmTeGs6H752bQtvxHrJk7yLk&callback=initMap"
+  <script src="GogleMapKey"
     async defer></script>
         <script
   src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
